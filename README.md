@@ -5,14 +5,20 @@ Plantilla para proyectos en Python orientados al automatismo con AutoSolve. Esta
 ## Estructura del Proyecto
 
 root/
-│
-├── apps/ # Herramientas principales y lógica de negocio
-├── modules/ # Módulos independientes y reutilizables
-├── tests/ # Pruebas unitarias para los módulos
-├── deps/ # Dependencias del proyecto (requirements.txt)
-├── docs/ # Documentación del proyecto
-├── data/ # Archivos de datos utilizados por el proyecto
-└── main.py # Punto de entrada principal del proyecto
+
+  │
+
+  ├── apps/ # Herramientas principales y lógica de negocio
+  
+  ├── modules/ # Módulos independientes y reutilizables
+  
+  ├── tests/ # Pruebas unitarias para los módulos├── deps/ # Dependencias del proyecto (requirements.txt)
+
+  ├── docs/ # Documentación del proyecto
+  
+  ├── data/ # Archivos de datos utilizados por el proyecto
+  
+  └── main.py # Punto de entrada principal del proyecto
 
 ### Extensiones Web
 
